@@ -1,7 +1,7 @@
 //appkeys
 var a = config.APP_KEY;
 var s = config.SECRET_KEY;
-//facebooksdk
+//facebook sdk
 window.fbAsyncInit = function() {
   FB.init({
     appId: '129933994469246',
